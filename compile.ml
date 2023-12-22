@@ -1,4 +1,4 @@
-#use "OCaml/MyOCaml.ml";;
+#use "MyOCaml.ml";;
 #use "interp.ml";;
 (* abstract syntax tree of high-level language *)
 
